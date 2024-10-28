@@ -1,0 +1,14 @@
+{
+  "name": "lesson-6",
+  "version": "0.0.1",
+  "author": "Woloja",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.7.1",
+    "body-parser": "^1.19.0"
+  }
+}
